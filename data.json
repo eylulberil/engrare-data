@@ -1,0 +1,36 @@
+{
+  "account": {
+    "instagram": [
+      {
+        "nickname": "engrare.co",
+        "password": "199803Be"
+      },
+      {
+        "nickname": "TwistEpsilon",
+        "password": "UwU15DMiQbMReN"
+      }
+    ],
+    "twitter(X)": [
+      {
+        "nickname": "valorush09",
+        "password": "UwU1wB94nxww27",
+        "lastplayhour": 0
+      },
+      {
+        "nickname": "valorush04",
+        "password": "UwU1v4Ex0TIXGQ",
+        "lastplayhour": 470179
+      }
+    ],
+    "sold": [
+      {
+        "nickname": "ardaokatan11",
+        "password": "UwU1K7W1gO7gb5"
+      },
+      {
+        "nickname": "Watsay24",
+        "password": "UwU1wpc9fMeWdh"
+      }
+    ]
+  }
+}
