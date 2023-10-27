@@ -1,36 +1,94 @@
 {
-  "account": {
-    "instagram": [
-      {
-        "nickname": "engrare.co",
-        "password": ""
-      },
-      {
-        "nickname": "TwisEpson",
-        "password": "UwU15DMiQReN"
-      }
-    ],
-    "twitter(X)": [
-      {
-        "nickname": "valrh09",
-        "password": "UwUB94nw27",
-        "lastplayhour": 0
-      },
-      {
-        "nickname": "valor04",
-        "password": "UwU1v4Ex0GQ",
-        "lastplayhour": 470179
-      }
-    ],
-    "sold": [
-      {
-        "nickname": "ardaokaan11",
-        "password": "UwU1K7gO7b5"
-      },
-      {
-        "nickname": "Watsay4",
-        "password": "UwU1wpcdh"
-      }
-    ]
-  }
+	"account": {
+		"whatsapp": {
+			"link": "https://wa.me/905412989803/"
+		},
+		"instagram": {
+			"link": "https://www.instagram.com/engrare.co/",
+			"nickname": "engrare.co",
+			"password": "aynenkankainsasifrem"
+		},
+		"twitter": {
+			"link": "https://x.com/engrare.co/",
+			"nickname": "engrare.co",
+			"password": "aynenkankainsasifremhehe"
+		}
+	},
+	"website": {
+		"slide": {
+			"name": "Engrare",
+			"content": [
+				{
+					"header": "Engrare Takımı",
+					"buttontext": "Detayları Gör",
+					"link": "",
+					"gocorner": "1",
+					"bgimglink": ""
+				},
+				{
+					"header": "Engrare\'a Destek Ol!",
+					"buttontext": "Sponsorluk Başvurusu Yap",
+					"link": "",
+					"gocorner": "5",
+					"bgimglink": ""
+				},
+				{
+					"header": "Hazırlarımız",
+					"buttontext": "Detayları Gör",
+					"link": "",
+					"gocorner": "2",
+					"bgimglink": ""
+				},
+				{
+					"header": "Engrare Takımı",
+					"buttontext": "Detayları Gör",
+					"link": "",
+					"gocorner": "4",
+					"bgimglink": ""
+				},
+			]
+		},
+		"corner": [
+			{
+				"name": "Biz Kimiz?",
+				"header": "Biz Kimiz?",
+				"text": "örnek yazı 1 bu bir yazıdır. \nistediğiniz kadar uzatabilirsiniz.",
+				"buttontext": "",
+				"btnlink": "",
+				"bgimglink": ""
+			},
+			{
+				"name": "Vizyonumuz",
+				"header": "Vizyonumuz",
+				"text": "örnek yazı 2 bu bir yazıdır. \nistediğiniz kadar uzatabilirsiniz.",
+				"buttontext": "",
+				"btnlink": "",
+				"bgimglink": ""
+			},
+			{
+				"name": "Misyonumuz",
+				"header": "Misyonumuz",
+				"text": "örnek yazı 3 bu bir yazıdır. \nistediğiniz kadar uzatabilirsiniz.",
+				"buttontext": "",
+				"btnlink": "",
+				"bgimglink": ""
+			},
+			{
+				"name": "Üye Alımı",
+				"header": "Üye Alımı",
+				"text": "örnek yazı 4 bu bir yazıdır. \nistediğiniz kadar uzatabilirsiniz.",
+				"buttontext": "Form için tıkla",
+				"btnlink": "",
+				"bgimglink": ""
+			},
+			{
+				"name": "Sponsorluk",
+				"header": "Sponsorluk İsteği",
+				"text": "örnek yazı 5 bu bir yazıdır. \nistediğiniz kadar uzatabilirsiniz.",
+				"buttontext": "Bizi desteklemek için tıklayınız.",
+				"btnlink": "",
+				"bgimglink": ""
+			}
+		]
+	}
 }
