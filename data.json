@@ -53,6 +53,7 @@
         "text": "örnek yazı 1 bu bir yazıdır. istediğiniz kadar uzatabilirsiniz.",
         "buttontext": "",
         "btnlink": "",
+        "formheight": "",
         "bgimglink": ""
       },
       {
@@ -61,6 +62,7 @@
         "text": "örnek yazı 2 bu bir yazıdır. istediğiniz kadar uzatabilirsiniz.",
         "buttontext": "",
         "btnlink": "",
+        "formheight": "",
         "bgimglink": ""
       },
       {
@@ -69,6 +71,7 @@
         "text": "örnek yazı 3 bu bir yazıdır. istediğiniz kadar uzatabilirsiniz.",
         "buttontext": "",
         "btnlink": "",
+        "formheight": "",
         "bgimglink": ""
       },
       {
@@ -77,6 +80,7 @@
         "text": "örnek yazı 4 bu bir yazıdır. istediğiniz kadar uzatabilirsiniz.",
         "buttontext": "Form için tıkla",
         "btnlink": "https://docs.google.com/forms/d/e/1FAIpQLScvTn5McU7fDOC9uBnRjqX2M4Z-cpuMG-oI1-1qSebOcoMgJQ/viewform?embedded=true",
+        "formheight": "3900",
         "bgimglink": ""
       },
       {
@@ -85,6 +89,7 @@
         "text": "örnek yazı 5 bu bir yazıdır. istediğiniz kadar uzatabilirsiniz.",
         "buttontext": "Bizi desteklemek için tıklayınız.",
         "btnlink": "https://docs.google.com/forms/d/e/1FAIpQLSdnS6v8xfdv8wYeqp5fnFl70ZXsQyZGB7irnU-t_jNkXx7yMg/viewform?embedded=true",
+        "formheight": "1700",
         "bgimglink": ""
       }
     ]
