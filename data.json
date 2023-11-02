@@ -35,14 +35,14 @@
           "buttontext": "Detayları Gör",
           "link": "",
           "gocorner": "2",
-          "bgimglink": ""
+          "bgimglink": "https://drive.google.com/uc?export=view&id=1Q_iE8mprwIEvpXNHeCxLVVe8mv4adiZV"
         },
         {
           "header": "Engrare Takımı",
           "buttontext": "Detayları Gör",
           "link": "",
           "gocorner": "4",
-          "bgimglink": ""
+          "bgimglink": "https://drive.google.com/uc?export=view&id=1Q_iE8mprwIEvpXNHeCxLVVe8mv4adiZV"
         }
       ]
     },
@@ -63,7 +63,7 @@
         "buttontext": "",
         "btnlink": "",
         "formheight": "",
-        "bgimglink": ""
+        "bgimglink": "https://drive.google.com/uc?export=view&id=1Q_iE8mprwIEvpXNHeCxLVVe8mv4adiZV"
       },
       {
         "name": "Misyonumuz",
@@ -72,7 +72,7 @@
         "buttontext": "",
         "btnlink": "",
         "formheight": "",
-        "bgimglink": ""
+        "bgimglink": "https://drive.google.com/uc?export=view&id=1Q_iE8mprwIEvpXNHeCxLVVe8mv4adiZV"
       },
       {
         "name": "Üye Alımı",
@@ -81,7 +81,7 @@
         "buttontext": "Form için tıkla",
         "btnlink": "https://docs.google.com/forms/d/e/1FAIpQLScvTn5McU7fDOC9uBnRjqX2M4Z-cpuMG-oI1-1qSebOcoMgJQ/viewform?embedded=true",
         "formheight": "3900",
-        "bgimglink": ""
+        "bgimglink": "https://drive.google.com/uc?export=view&id=1Q_iE8mprwIEvpXNHeCxLVVe8mv4adiZV"
       },
       {
         "name": "Sponsorluk",
@@ -90,7 +90,7 @@
         "buttontext": "Bizi desteklemek için tıklayınız.",
         "btnlink": "https://docs.google.com/forms/d/e/1FAIpQLSdnS6v8xfdv8wYeqp5fnFl70ZXsQyZGB7irnU-t_jNkXx7yMg/viewform?embedded=true",
         "formheight": "1700",
-        "bgimglink": ""
+        "bgimglink": "https://drive.google.com/uc?export=view&id=1Q_iE8mprwIEvpXNHeCxLVVe8mv4adiZV"
       }
     ]
   }
