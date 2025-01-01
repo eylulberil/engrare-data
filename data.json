@@ -21,28 +21,28 @@
           "buttontext": "Bizi tanımak için Tıkla.",
           "link": "",
           "gocorner": "1",
-          "bgimglink": "https://drive.google.com/thumbnail?id=1JVqZCIWAC-YZ8ATfdggU0z4fwjDa5Ww9&sz=w5000"
+          "bgimglink": "https://drive.google.com/thumbnail?id=1JVqZCIWAC-YZ8ATfdggU0z4fwjDa5Ww9&sz=w2000"
         },
         {
           "header": "Engrare'a Destek Ol!",
           "buttontext": "Sponsorluk Başvurusu Yap",
           "link": "",
           "gocorner": "5",
-          "bgimglink": "https://drive.google.com/thumbnail?id=1IoQMwVBfM6baJdbSsWf7HSky0adOKhQL&sz=w5000"
+          "bgimglink": "https://drive.google.com/thumbnail?id=1IoQMwVBfM6baJdbSsWf7HSky0adOKhQL&sz=w2000"
         },
         {
           "header": "Başarılar",
           "buttontext": "Detayları Gör",
           "link": "",
           "gocorner": "2",
-          "bgimglink": "https://drive.google.com/thumbnail?id=1G5LX-E8LOmZ9lIaxwpNWpDn8MbSPTlLn&sz=w5000"
+          "bgimglink": "https://drive.google.com/thumbnail?id=1G5LX-E8LOmZ9lIaxwpNWpDn8MbSPTlLn&sz=w2000"
         },
         {
           "header": "Üye Alımı",
           "buttontext": "Form bölümüne git.",
           "link": "",
           "gocorner": "4",
-          "bgimglink": "https://drive.google.com/thumbnail?id=1J8UQNKbD1gOxy3ydU_a4UzrTOUs0G9zF&sz=w5000"
+          "bgimglink": "https://drive.google.com/thumbnail?id=1J8UQNKbD1gOxy3ydU_a4UzrTOUs0G9zF&sz=w2000"
         }
       ]
     },
@@ -54,7 +54,7 @@
         "buttontext": "",
         "btnlink": "",
         "formheight": "",
-        "bgimglink": "https://drive.google.com/thumbnail?id=1JGREGaI1ZUA7kt-RGpbPyEK2GUS04Rye&sz=w5000"
+        "bgimglink": "https://drive.google.com/thumbnail?id=1JGREGaI1ZUA7kt-RGpbPyEK2GUS04Rye&sz=w2000"
       },
       {
         "name": "Misyonumuz",
@@ -63,7 +63,7 @@
         "buttontext": "",
         "btnlink": "",
         "formheight": "",
-        "bgimglink": "https://drive.google.com/thumbnail?id=1Hte0t7iviCaiv9Pv_G5LupraUwLXnF6x&sz=w5000"
+        "bgimglink": "https://drive.google.com/thumbnail?id=1Hte0t7iviCaiv9Pv_G5LupraUwLXnF6x&sz=w2000"
       },
       {
         "name": "Vizyonumuz",
@@ -72,7 +72,7 @@
         "buttontext": "",
         "btnlink": "",
         "formheight": "",
-        "bgimglink": "https://drive.google.com/thumbnail?id=1H0Txk17fqhCKBqVrbCeZ23GyzSgye733&sz=w5000"
+        "bgimglink": "https://drive.google.com/thumbnail?id=1H0Txk17fqhCKBqVrbCeZ23GyzSgye733&sz=w2000"
       },
       {
         "name": "Üye Alımı",
@@ -81,7 +81,7 @@
         "buttontext": "Form için tıkla",
         "btnlink": "https://docs.google.com/forms/d/e/1FAIpQLScvTn5McU7fDOC9uBnRjqX2M4Z-cpuMG-oI1-1qSebOcoMgJQ/viewform?embedded=true",
         "formheight": "3900",
-        "bgimglink": "https://drive.google.com/thumbnail?id=1I3dTZ4fSnTLpPFAv34kx3P_02muoV7Np&sz=w5000"
+        "bgimglink": "https://drive.google.com/thumbnail?id=1I3dTZ4fSnTLpPFAv34kx3P_02muoV7Np&sz=w2000"
       },
       {
         "name": "Sponsorluk",
@@ -90,7 +90,7 @@
         "buttontext": "Bizi desteklemek için tıklayınız.",
         "btnlink": "https://docs.google.com/forms/d/e/1FAIpQLSdnS6v8xfdv8wYeqp5fnFl70ZXsQyZGB7irnU-t_jNkXx7yMg/viewform?embedded=true",
         "formheight": "1700",
-        "bgimglink": "https://drive.google.com/thumbnail?id=1H7MVFKzVOOBYJQP64PY9SFbb_oGAEB-6&sz=w5000"
+        "bgimglink": "https://drive.google.com/thumbnail?id=1H7MVFKzVOOBYJQP64PY9SFbb_oGAEB-6&sz=w2000"
       }
     ]
   }
